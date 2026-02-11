@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sattwik Kumar Sahu
+permalink: /
 ---
 
 # Sattwik Kumar Sahu
