@@ -5,7 +5,8 @@ title: Sattwik Kumar Sahu
 description: Robotics | Embodied Intelligence
 # logo: /assets/img/sattwik.jpg
 theme: minimal-mistakes-jekyll
-baseurl: "/"
+baseurl: ""
+url: "https://github.com/sattwik-sahu/sattwik-sahu.github.io"
 incremental: false
 highlighter: rouge
 gist:
