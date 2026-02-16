@@ -1,0 +1,7 @@
+{
+	"name": "sattwik-sahu.github.io",
+	"dockerFile": "Dockerfile",
+    "forwardPorts": [4000, 35729],    
+    "runArgs": ["--name","sattwiksahu-githubio"],
+    "postStartCommand": "bundle install && bundle exec jekyll serve --baseurl='' --livereload --force_polling"
+}

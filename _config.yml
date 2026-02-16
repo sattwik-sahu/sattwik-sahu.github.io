@@ -1,0 +1,37 @@
+lsi: false
+safe: true
+source: .
+title: Sattwik Kumar Sahu
+description: Robotics | Embodied Intelligence
+# logo: /assets/img/sattwik.jpg
+theme: minimal-mistakes-jekyll
+baseurl: "/"
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+minimal_mistakes_skin: "air"   # try: "air", "contrast", "dark"
+
+author:
+  name   : "Sattwik Kumar Sahu"
+  avatar : "/assets/img/sattwik.jpg"
+  bio    : "MS Student, IISER Bhopal"
+  location : "Bhopal, India"
+  email  : "sattwik21@iiserb.ac.in"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sattwik-sahu"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/sattwik-kumar-sahu-19b685268"
+
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=nMh7tO8AAAAJ"
+
