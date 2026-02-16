@@ -2,11 +2,10 @@ lsi: false
 safe: true
 source: .
 title: Sattwik Kumar Sahu
-description: Robotics | Embodied Intelligence
-# logo: /assets/img/sattwik.jpg
 theme: minimal-mistakes-jekyll
 baseurl: ""
 url: "https://github.com/sattwik-sahu/sattwik-sahu.github.io"
+repository: "sattwik-sahu/sattwik-sahu.github.io"
 incremental: false
 highlighter: rouge
 gist:
@@ -15,7 +14,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-minimal_mistakes_skin: "air"   # try: "air", "contrast", "dark"
+minimal_mistakes_skin: "default"   # try: "air", "contrast", "dark"
 
 author:
   name   : "Sattwik Kumar Sahu"
@@ -36,3 +35,11 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=nMh7tO8AAAAJ"
 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/radwikc"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sattwik-sahu"

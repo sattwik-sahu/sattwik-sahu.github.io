@@ -9,7 +9,7 @@ My research focuses on robustness, adaptation, and deploying embodied AI systems
 
 ---
 
-## Research Interests
+## 🤩 Research Interests
 
 - Multimodal Foundation Models  
 - Embodied Intelligence  
@@ -20,7 +20,7 @@ My research focuses on robustness, adaptation, and deploying embodied AI systems
 
 ---
 
-## Publications
+## 📃 Publications
 
 ### AnyTraverse: Off-Road Traversability with VLM + Human-in-the-Loop  
 
@@ -33,7 +33,7 @@ Presented at ISER 2025, Santa Fe, USA.
 
 ---
 
-## Research Projects
+## 🧪 Research Projects
 
 ### Multimodal Models for Robot Learning  
 *Dec 2024 – Present*
@@ -41,16 +41,7 @@ Presented at ISER 2025, Santa Fe, USA.
 - Language-goal-conditioned ACT models  
 - Vision-Language-Action systems  
 - Self-supervised goal-conditioned EBMs  
-- Deployment on real robotic platforms  
-
----
-
-### AnyTraverse  
-*Nov 2024 – Present*
-
-- Zero-shot off-road traversability  
-- Deployed on quadruped, rover, ATV  
-- ROS2 integration  
+- Deployment on real robotic platforms    
 
 ---
 
@@ -65,26 +56,18 @@ Presented at ISER 2025, Santa Fe, USA.
 
 ---
 
-## Education
+## 🎓 Education
 
-**BS-MS in EECS**  
-Indian Institute of Science Education and Research (IISER) Bhopal  
-CPI: 9.15/10  
+### BS-MS in EECS
+
+- Indian Institute of Science Education and Research (IISER) Bhopal  
+- CPI: `9.15/10.0`  
 
 ---
 
-## Honors
+## 🏅 Honors
 
 - Top 19/1500 — ISRO Robotics Challenge 2024  
 - Gold Medal — iGEM Jamboree 2023 (Paris)  
-- IEEE CASS APAC Runner-Up 2023  
+- Second Runner-Up (Asia-Pacific Region) -- IEEE CASS Student Design Competition
 - MITACS Globalink Summer Internship Select  
-
----
-
-## Contact
-
-📧 sattwik21@iiserb.ac.in  
-🔗 [GitHub](https://github.com/sattwik-sahu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sattwik-kumar-sahu-19b685268)  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=nMh7tO8AAAAJ)
