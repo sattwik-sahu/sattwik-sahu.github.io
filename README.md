@@ -45,7 +45,7 @@ Presented at ISER 2025, Santa Fe, USA.
 - Trained several segmentation heads on top of the encoder backbone for downstream detection tasks
 - Manuscript under review at BMVC 2026 (*Repo private*)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/sattwik-sahu/marsls-seg)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/sattwik-sahu/marsls-seg)
 
 ### Multimodal Models for Robot Learning  
 *Dec 2024 – Present*
