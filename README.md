@@ -28,7 +28,7 @@ My research focuses on robustness, adaptation, and deploying embodied AI systems
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.16826-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.16826)
 [![PyPI Version](https://img.shields.io/pypi/v/anytraverse?logo=python)](https://pypi.org/project/anytraverse/)
-[![GitHub Release](https://img.shields.io/github/v/release/sattwik-sahu/AnyTraverse?logo=github&label=code)](https://github.com/sattwik-sahu/AnyTraverse)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/sattwik-sahu/AnyTraverse)
 [![Demo Video](https://img.shields.io/badge/drive-video-0099ff?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1N49wiVXePfzldsePGwMILzMXNKS2RL-7/view?usp=drive_link)
 
 
