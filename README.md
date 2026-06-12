@@ -22,17 +22,17 @@ My research focuses on robustness, adaptation, and deploying embodied AI systems
 
 ## 📃 Publications
 
-### AnyTraverse: Off-Road Traversability with VLM and Human-in-the-Loop  
+### AnyTraverse: Off-Road Traversability with VLM and Human-in-the-Loop
 
-**Sattwik Sahu**, Agamdeep Singh, Karthik Nambiar, Srikanth Saripalli, P.B. Sujit  
+**Sattwik Sahu**, Agamdeep Singh, Karthik Nambiar, Srikanth Saripalli, P.B. Sujit
+
+_19th International Symposium on Experimental Robotics, Santa Fe, NM, USA_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.16826-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.16826)
 [![PyPI Version](https://img.shields.io/pypi/v/anytraverse?logo=python)](https://pypi.org/project/anytraverse/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/sattwik-sahu/AnyTraverse)
-[![Demo Video](https://img.shields.io/badge/drive-video-0099ff?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1N49wiVXePfzldsePGwMILzMXNKS2RL-7/view?usp=drive_link)
 
-
-Presented at ISER 2025, Santa Fe, USA.
+{% include gdrive_video.html id="1N49wiVXePfzldsePGwMILzMXNKS2RL-7" %}
 
 ---
 
